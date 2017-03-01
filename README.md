@@ -4,7 +4,8 @@ node-nocache
 
 ## Introduction
 
-Add no-cache related headers for all the express response to disable caches.
+An node `express` middleware which add no-cache related headers for all the express response to disable caches. 
+It is useful for REST API response, add no-cache headers to avoid browsers cache request response.
 
 The following headers are added to response header:
 
