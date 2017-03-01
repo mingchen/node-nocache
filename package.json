@@ -1,6 +1,6 @@
 {
   "name": "node-nocache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Add nocache headers to response",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "github.com/mingchen/node-nocache"
+    "url": "https://github.com/mingchen/node-nocache",
+    "bugs": "https://github.com/mingchen/node-nocache/issues"
   },
   "keywords": [
     "node",
@@ -18,3 +19,4 @@
   "author": "Ming Chen <ming_c@hotmail.com>",
   "license": "MIT"
 }
+
