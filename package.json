@@ -1,0 +1,20 @@
+{
+  "name": "node-nocache",
+  "version": "1.0.0",
+  "description": "Add nocache headers to response",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/mingchen/node-nocache"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "nocache"
+  ],
+  "author": "Ming Chen <ming_c@hotmail.com>",
+  "license": "MIT"
+}
