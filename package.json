@@ -4,6 +4,7 @@
   "description": "Add nocache headers to response",
   "main": "index.js",
   "scripts": {
+    "pretest": "./node_modules/.bin/jshint index.js",
     "test": "mocha"
   },
   "repository": {
@@ -17,6 +18,14 @@
     "nocache"
   ],
   "author": "Ming Chen <ming_c@hotmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.15.0",
+    "jshint": "^2.9.4",
+    "mocha": "^3.2.0",
+    "should": "^11.2.0",
+    "supertest": "^3.0.0"
+  },
+  "dependencies": {}
 }
 

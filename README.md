@@ -22,7 +22,7 @@ The following headers are added to response header:
 
     let nocache = require('node-nocache');
 
-    app.use(nocache());
+    app.use(nocache);
 
 or use you can only add no-cache header to specific requests with `router`
 
