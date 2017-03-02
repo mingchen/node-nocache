@@ -4,6 +4,9 @@ node-nocache
 
 ## Introduction
 
+[![Build Status](https://travis-ci.org/mingchen/node-nocache.svg?branch=master)](https://travis-ci.org/mingchen/node-nocache)
+
+
 An node `express` middleware which add no-cache related headers for all the express response to disable caches. 
 It is useful for REST API response, add no-cache headers to avoid browsers cache request response.
 
