@@ -4,7 +4,7 @@
   "description": "Add nocache headers to response",
   "main": "index.js",
   "scripts": {
-    "pretest": "./node_modules/.bin/jshint index.js",
+    "pretest": "./node_modules/.bin/jshint index.js nocache.js",
     "test": "./node_modules/.bin/mocha"
   },
   "repository": {
