@@ -28,8 +28,16 @@ The following headers are added to response header:
 
     app.use(nocache);
 
-or use you can only add no-cache header to specific requests with `router`
+or use you can only add no-cache headers to specific requests with `router`:
 
     router.all('*', require('node-nocache'));
 
+or
+    let nocache = require('node-nocache');
+
+    router.get('/api/foo', nocache, function (req, res, next) {
+        ...
+    });
+
+Checkout `test/nocache_test.js` for example usages.
 
