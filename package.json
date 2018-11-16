@@ -1,6 +1,6 @@
 {
   "name": "node-nocache",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Add nocache headers to response",
   "main": "index.js",
   "scripts": {
