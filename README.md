@@ -2,8 +2,9 @@ node-nocache
 ============
 
 [![Build Status](https://travis-ci.org/mingchen/node-nocache.svg?branch=master)](https://travis-ci.org/mingchen/node-nocache)
+[![Greenkeeper badge](https://badges.greenkeeper.io/mingchen/node-nocache.svg)](https://greenkeeper.io/)
 
-[![NPM](https://nodei.co/npm/node-nocache.png?downloads=true)](https://nodei.co/npm/node-nocache/) [![Greenkeeper badge](https://badges.greenkeeper.io/mingchen/node-nocache.svg)](https://greenkeeper.io/)
+[![NPM](https://nodei.co/npm/node-nocache.png?downloads=true)](https://nodei.co/npm/node-nocache/)
 
 
 ## Introduction
